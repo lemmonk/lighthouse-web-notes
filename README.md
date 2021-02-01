@@ -2,4 +2,5 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Kyle Lemmon for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Kyle Lemmon](https://github.com/lemmonk/lighthouse-web-notes) for the Lighthouse Labs Web Development Bootcamp.
+
